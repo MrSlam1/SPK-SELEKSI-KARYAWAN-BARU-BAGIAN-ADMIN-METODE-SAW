@@ -22,7 +22,7 @@ Seleksi perekrutan karyawan baru adalah suatu keharusan dan hal yang penting bag
 # Hasil Psikotest <br>
 <img src = "data-psikotest.png" img> <br>
 # Hasil Test Interview <br>
-<img src = "data-interview.png" img> <br>
+<img src = "data-interveiw.png" img> <br>
 # Hasil Tes Excel <br>
 <img src = "data-excel.png" img> <br>
 # Hasil Medical Checkup <br>
