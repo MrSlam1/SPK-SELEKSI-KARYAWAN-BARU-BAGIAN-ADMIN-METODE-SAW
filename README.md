@@ -9,3 +9,26 @@ Seleksi perekrutan karyawan baru adalah suatu keharusan dan hal yang penting bag
 <img src = "careers-info.png" img> <br>
 # Halaman Pendaftaran Calon Karyawan untuk pelamar <br>
 <img src = "regist-form.png" img> <br>
+# Halaman Login Untuk Admin  <br>
+<img src = "admin-login-form.png" img> <br>
+# Halaman Dashboard Admin <br>
+<img src = "admin-dashboard.png" img> <br>
+# Data Kriteria Dan Setting Bobot <br>
+<img src = "data-kriteria.png" img> <br>
+# Data Registrasi <br>
+<img src = "data-regist.png" img> <br>
+# Daftar Peserta <br>
+<img src = "data-peserta.png" img> <br>
+# Hasil Psikotest <br>
+<img src = "data-psikotest.png" img> <br>
+# Hasil Test Interview <br>
+<img src = "data-interview.png" img> <br>
+# Hasil Tes Excel <br>
+<img src = "data-excel.png" img> <br>
+# Hasil Medical Checkup <br>
+<img src = "data-mcu.png" img> <br>
+# Hasil Pengambilan Keputusan <br>
+<img src = "data-pengambilan-keputusan.png" img> <br>
+# Detail Perhitungan <br>
+<img src = "detail-hitung1.png" img> <br>
+<img src = "detail-hitung2.png" img> <br>
